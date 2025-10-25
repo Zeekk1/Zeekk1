@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Zeekk1
-- 👀 I’m interested in projects to learn new things from.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Zahra, MSc in AI.
+- 👀 I’m interested in working on AI projects.
 - 📫 How to reach me zahrakhalid002@gmail.com
 
 <!---
